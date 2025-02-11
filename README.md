@@ -1,5 +1,5 @@
 <h1>Configs SpringBoot</h1>
-<p>Essas são as configurações básicas de arquivo application.properties em uma aplicação SpringBoot</p>
+<p>Essas são as configurações básicas de arquivo application.properties em uma aplicação SpringBoot que usa variáveis de ambiente.</p>
 <hr>
 <h3>O quê está sendo configurado?</h3>
 <ul>
